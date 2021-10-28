@@ -11,3 +11,28 @@ Prototype implementation of a robot arm control use case boosted by a P4 program
 </p>
 
 
+## Citation
+To cite `segregation`, we recommend the following
+
+```latex
+## Citation
+To cite `In-network Low Latency Robot Arm Kinematics Control using P4`, we recommend the following
+
+```latex
+@inproceedings{10.1145/3360468.3368178,
+	author = {Rodriguez, Fabricio and Rothenberg, Christian Esteve and Pongr\'{a}cz, Gergely},
+	title = {In-Network P4-Based Low Latency Robot Arm Control},
+	year = {2019},
+	isbn = {9781450370066},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3360468.3368178},
+	doi = {10.1145/3360468.3368178},
+	booktitle = {Proceedings of the 15th International Conference on Emerging Networking EXperiments and Technologies},
+	pages = {59–61},
+	numpages = {3},
+	keywords = {P4, Robotic control, Low Latency applications},
+	location = {Orlando, FL, USA},
+	series = {CoNEXT '19 Companion}
+}
+```
