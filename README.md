@@ -12,10 +12,6 @@ Prototype implementation of a robot arm control use case boosted by a P4 program
 
 
 ## Citation
-To cite `segregation`, we recommend the following
-
-```latex
-## Citation
 To cite `In-network Low Latency Robot Arm Kinematics Control using P4`, we recommend the following
 
 ```latex
